@@ -69,9 +69,9 @@ void cipher(vector<char> input, int ciphermode)
                   flag=1;
                 }
             }
-		 }
+	}
 
-	 }
+     }
 
          cout<<"\nEncrypted Message is " << endl;
          for(int z=0; z<message.size() ; z++)
